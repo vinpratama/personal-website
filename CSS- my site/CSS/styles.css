@@ -1,0 +1,171 @@
+body {
+
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin: 0 auto ;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.top-countainer {
+    text-align: center;
+    margin: 0px;
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 200px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.sun {
+    width: 50px;
+    position: absolute;
+    left: 630px;
+    top: 148px;
+}
+
+.middle-cloud {
+    position: absolute;
+    left: 550px;
+    top: 150px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    
+}
+
+.line1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.middle-container { 
+    background-color: #e4f9f5;
+
+}
+
+.profile {
+    position: relative;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.myprofile {
+    width: 250px;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+
+.aboutme {
+    position: absolute;
+    top: 50px;
+    left: 670px;
+    
+}
+
+.textaboutme {
+    position: absolute;
+    top: 170px;
+    left: 350px;
+    
+    
+}
+
+.skills {
+    position: relative;
+    padding-top: 200px;
+    padding-bottom: 450px;
+}
+
+
+.computer {
+    width: 250px;
+    position: absolute;
+    top: 100px;
+    right: 50px;
+
+}
+
+.myskills {
+    position:absolute;
+    top: 50px;
+    right: 670px;
+}
+
+.tech {
+    position: absolute;
+    top: 130px;
+    left: 40px;
+}
+
+.aboutskills {
+    position: absolute;
+    left: 100px;
+}
+
+.chillies {
+    width: 250px;
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+}
+
+.anotherskill {
+    position: absolute;
+    bottom: 240px;
+    left: 350px;
+}
+
+.chilliclass {
+    position: absolute;
+    top: 450px;
+    left: 400px;
+}
+
+.contact-me {
+    text-align: center;
+
+}
+
+.contact {
+    top: 10px;
+}
+
+.images {
+    width: 250px;
+}
+
+.bottom-container {
+    margin: 0px 0px 0px 0px;
+    background-color: #e4f9f5;
+    text-align: center;;
+}
+
+.ig {
+    width: 20px;
+}
+
+.twt {
+    width: 20px;
+}
